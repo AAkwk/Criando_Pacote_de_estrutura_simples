@@ -1,10 +1,10 @@
 # my_info_package
 
-Description. 
-The package my_info_package is used to:
-	- 
-	-
+Um pacote simples em Python que oferece a função `get_my_info()` para retornar:
 
+- Nome: Alexandre Kawakita  
+- Profissão: Engenheiro Mecatrônico  
+- Cidade: Paranaíba-MS
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
